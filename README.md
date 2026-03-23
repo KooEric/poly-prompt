@@ -1,4 +1,6 @@
 # prtr
+# MOVED : https://github.com/helloprtr/poly-prompt
+## Site : https://helloprtr.github.io/poly-prompt/
 
 `prtr` is the repository for `poly-prompt`, a macOS-first CLI that translates prompt text into English with DeepL, prints the final prompt to `stdout`, and copies it to the clipboard so you can paste it into Claude, Codex, Gemini, or any other tool with `Cmd+V`.
 
